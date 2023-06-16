@@ -1,0 +1,14 @@
+{
+  "name": "datadog2split",
+  "version": "1.0.0",
+  "description": "Service to manage split.io feature flags based on Datadog monitor alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@splitsoftware/splitio": "10.22.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
